@@ -9,7 +9,7 @@ project_name="Quality Check"
 
 list_of_folder=[
     "setup.py",
-    "exception.py"
+    "exception.py",
     ".github/workflows/.gitkeep",
     "config/config.yaml",
     "params.yaml",
